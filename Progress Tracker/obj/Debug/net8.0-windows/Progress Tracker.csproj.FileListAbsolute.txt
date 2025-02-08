@@ -1,0 +1,16 @@
+C:\Users\Kris\source\repos\2025\Progress Tracker\bin\Debug\net8.0-windows\Progress Tracker.exe
+C:\Users\Kris\source\repos\2025\Progress Tracker\bin\Debug\net8.0-windows\Progress Tracker.deps.json
+C:\Users\Kris\source\repos\2025\Progress Tracker\bin\Debug\net8.0-windows\Progress Tracker.runtimeconfig.json
+C:\Users\Kris\source\repos\2025\Progress Tracker\bin\Debug\net8.0-windows\Progress Tracker.dll
+C:\Users\Kris\source\repos\2025\Progress Tracker\bin\Debug\net8.0-windows\Progress Tracker.pdb
+C:\Users\Kris\source\repos\2025\Progress Tracker\obj\Debug\net8.0-windows\Progress_Tracker.Form1.resources
+C:\Users\Kris\source\repos\2025\Progress Tracker\obj\Debug\net8.0-windows\Progress Tracker.csproj.GenerateResource.cache
+C:\Users\Kris\source\repos\2025\Progress Tracker\obj\Debug\net8.0-windows\Progress Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kris\source\repos\2025\Progress Tracker\obj\Debug\net8.0-windows\Progress Tracker.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\2025\Progress Tracker\obj\Debug\net8.0-windows\Progress Tracker.AssemblyInfo.cs
+C:\Users\Kris\source\repos\2025\Progress Tracker\obj\Debug\net8.0-windows\Progress Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\2025\Progress Tracker\obj\Debug\net8.0-windows\Progress Tracker.dll
+C:\Users\Kris\source\repos\2025\Progress Tracker\obj\Debug\net8.0-windows\refint\Progress Tracker.dll
+C:\Users\Kris\source\repos\2025\Progress Tracker\obj\Debug\net8.0-windows\Progress Tracker.pdb
+C:\Users\Kris\source\repos\2025\Progress Tracker\obj\Debug\net8.0-windows\Progress Tracker.genruntimeconfig.cache
+C:\Users\Kris\source\repos\2025\Progress Tracker\obj\Debug\net8.0-windows\ref\Progress Tracker.dll
