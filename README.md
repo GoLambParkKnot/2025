@@ -6,6 +6,6 @@
 
 I wanted to track my credit card churning goals
 
-######What?
+###### What?
 
 C# Windows form app that takes input and displays progress towards a goal
